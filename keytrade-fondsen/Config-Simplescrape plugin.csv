@@ -1,0 +1,10 @@
+;
+;
+Name;div.sc-hJwwgy.bRZuZ h1
+rating;div.WidgetBody__WidgetBodyWrapper-sc-8dldt2-0.dtYeUX p.eCFiWh
+Lopende kosten;#key-figures .Widget__WidgetWrapper-sc-qbesgf-0:nth-child(2) tr:nth-child(7) 
+Risico;"div.sc-geuPIQ span[color=""White""]"
+Compartiment;.WidgetBody__WidgetBodyWrapper-sc-8dldt2-0 > .Tablestyled__StyledWrapper-sn807g-4 > .ScrollContainer__ScrollWrapper-tvpaor-0 > .ScrollContainer__Scroller-tvpaor-1 > .ScrollContainer__ScrollContent-tvpaor-2 > .Tablestyled__StyledInnerWrapper-sn807g-5 > .Tablestyled__StyledTable-sn807g-6 > tbody > :nth-child(2) > .bicjIW > div
+;
+WITH JS;
+Rating;"document.querySelector(""#key-figures > div > div:nth-child(1) > section:nth-child(2) > div > span"").ariaLabel"
