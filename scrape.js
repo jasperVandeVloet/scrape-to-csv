@@ -105,7 +105,7 @@ async function processCSV(csvFilePath, outputFilePath) {
     }
 }
 
-const inputFilePath = 'keytrade-fondsen/Keytrade fondsen-Keytrade fondsen.csv';
+const inputFilePath = 'input.csv';
 const outputFilePath = `output.csv`;
 
 processCSV(inputFilePath, outputFilePath);
